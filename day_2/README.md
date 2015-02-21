@@ -93,7 +93,7 @@ CSS
 - Let's see the grid system in action.
 - We will be coding the Bootstrap grid example:
 
-![Grid Example](img/grid_template.png)
+![Grid Example](../img/grid_template.png)
 
 - Let's also make sure to practice using different breakpoints.
 

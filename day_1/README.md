@@ -111,7 +111,7 @@
 - If you want a larger box, you need to have a greater column offset.
 - Here is a good pictorial to help you break it down:
 
-![Grid Pictorial](img/grid.jpg)
+![Grid Pictorial](../img/grid.jpg)
 
 ##Code-Along: Let's Create Our Own Grid
 - We will create a 2, 4, and 6 column grid.
@@ -129,16 +129,16 @@
 
 1. Stackers!
 
-![Stackers!](img/stackers.png)
+![Stackers!](../img/stackers.png)
 
 2. The Mirror
 
-![The Mirror](img/the_mirror.png)
+![The Mirror](../img/the_mirror.png)
 
 3. The Skinny
 
-![The Skinny](img/the_skinny.png)
+![The Skinny](../img/the_skinny.png)
 
 4. The Absolute
 
-![The Absolute](img/the_absolute.png)
+![The Absolute](../img/the_absolute.png)
