@@ -8,5 +8,8 @@
 - Floats
 - Grid layout
 - CSS positioning
+
+###[Day 2:](day_2/)
 - Twitter Bootstrap
 - Media queries
+- CSS transitions and transforms
