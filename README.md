@@ -13,3 +13,4 @@
 - Twitter Bootstrap
 - Media queries
 - CSS transitions and transforms
+- Lab time
